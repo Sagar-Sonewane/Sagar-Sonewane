@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0f172a,75:1e1b4b,100:2563eb&height=220&section=header&text=Sagar%20Sonewane&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Mobile%20%26%20Systems%20Builder%20%C2%B7%20MCA%20'26&descSize=19&descAlignY=58&descColor=93c5fd" width="100%" alt="Sagar Sonewane Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0f172a,75:1e1b4b,100:2563eb&height=220&section=header&text=Sagar%20Sonewane&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Systems%20and%20Mobile%20Builder%20%C2%B7%20MCA%202026&descSize=19&descAlignY=58&descColor=93c5fd" width="100%" alt="Sagar Sonewane Banner" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/Sagar-Sonewane">
