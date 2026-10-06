@@ -80,7 +80,7 @@ I'm an independent developer who builds self-directed projects end to end: produ
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sagar-Sonewane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Sonewane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" />
 
 <img src="https://streak-stats.demolab.com?user=Sagar-Sonewane&theme=tokyonight&hide_border=true&background=0f172a" />
