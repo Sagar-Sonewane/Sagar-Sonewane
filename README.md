@@ -279,6 +279,15 @@ I bridge product intuition with systems engineering: from low-latency WebRTC aud
 
 <div align="center">
 
+  <!-- 8-Bit Contribution Grid Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sagar-Sonewane/Sagar-Sonewane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sagar-Sonewane/Sagar-Sonewane/output/github-contribution-grid-snake.svg" />
+    <img alt="Sagar's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Sagar-Sonewane/Sagar-Sonewane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+
+  <br/><br/>
+
   <table border="0">
     <tr>
       <td align="center" valign="middle">
