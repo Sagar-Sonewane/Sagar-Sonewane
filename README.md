@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Animated Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,20:0a0f1d,40:1e1b4b,65:312e81,85:2563eb,100:00f2fe&height=250&section=header&text=Sagar%20Sonewane&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20Full-Stack%20Engineer%20%E2%80%A2%20Realtime%20Systems%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20MCA%202026%20%E2%9C%A8&descSize=18&descAlignY=60&descColor=67e8f9&animation=fadeIn" width="100%" alt="Sagar Sonewane Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050814,20:0a0f1d,40:1e1b4b,65:312e81,85:2563eb,100:00f2fe&height=250&section=header&text=Sagar%20Sonewane&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A8%20Full-Stack%20Engineer%20%E2%80%A2%20Realtime%20Systems%20%E2%80%A2%20MCA%202026%20%E2%9C%A8&descSize=18&descAlignY=60&descColor=67e8f9&animation=fadeIn" width="100%" alt="Sagar Sonewane Banner" />
 
   <!-- Dynamic Typing Animation Subtitle -->
   <a href="https://github.com/Sagar-Sonewane">
@@ -288,18 +288,13 @@ I bridge product intuition with systems engineering: from low-latency WebRTC aud
 
   <br/><br/>
 
-  <!-- 🏆 Gamified GitHub Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sagar-Sonewane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-  <br/><br/>
-
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sagar-Sonewane&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&border_color=30363d" alt="Sagar's GitHub Stats" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sagar-Sonewane&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&border_color=30363d" alt="Sagar's GitHub Stats" />
       </td>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Sonewane&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Sonewane&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -307,12 +302,7 @@ I bridge product intuition with systems engineering: from low-latency WebRTC aud
   <br/>
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Sagar-Sonewane&theme=tokyonight&background=0d1117&border=30363d&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- 📈 Interactive 3D / Smooth Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Sonewane&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=Sagar-Sonewane&background=0d1117&border=30363d&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 
   <br/><br/>
 
