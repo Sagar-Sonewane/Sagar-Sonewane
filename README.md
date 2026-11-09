@@ -291,10 +291,10 @@ I bridge product intuition with systems engineering: from low-latency WebRTC aud
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sagar-Sonewane&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&border_color=30363d" alt="Sagar's GitHub Stats" />
+        <img height="180" src="https://github-stats-extended.vercel.app/api?username=Sagar-Sonewane&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Sagar's GitHub Stats" />
       </td>
       <td align="center" valign="middle">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Sonewane&layout=compact&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+        <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sagar-Sonewane&layout=compact&theme=tokyonight" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -302,7 +302,7 @@ I bridge product intuition with systems engineering: from low-latency WebRTC aud
   <br/>
 
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Sagar-Sonewane&background=0d1117&border=30363d&stroke=30363d&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sagar-Sonewane&theme=tokyonight" alt="GitHub Streak" />
 
   <br/><br/>
 
